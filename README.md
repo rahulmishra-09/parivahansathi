@@ -1,6 +1,6 @@
-# railway
+# ParivahanSathi
 
-A new Flutter project.
+A Flutter project for sending and receiving heavy parcels via Indian Railways.
 
 ## Getting Started
 
