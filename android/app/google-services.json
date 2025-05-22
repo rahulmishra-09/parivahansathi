@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "882949927440",
+    "project_id": "parivahansathi-a881a",
+    "storage_bucket": "parivahansathi-a881a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882949927440:android:7d8f9accdead1628cc9095",
+        "android_client_info": {
+          "package_name": "com.example.railway"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs71MjJ_0lKi2qz9gU1fHyXTUNB7CUaUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

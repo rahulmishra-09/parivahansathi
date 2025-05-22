@@ -1,0 +1,2 @@
+D:/College Projects/railway/android/app/.cxx/Debug/d688251p/x86_64/CMakeFiles/edit_cache.dir
+D:/College Projects/railway/android/app/.cxx/Debug/d688251p/x86_64/CMakeFiles/rebuild_cache.dir
